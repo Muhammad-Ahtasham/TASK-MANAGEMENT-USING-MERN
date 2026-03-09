@@ -34,7 +34,7 @@ It allows users to register, log in, reset passwords securely, and perform full 
 
 1. Clone the repo:
 
-git clone https://github.com/your-username/task-management-app-using-mern-stack.git
+git clone https://github.com/Muhammad-Ahtasham/TASK-MANAGEMENT-USING-MERN
 Install dependencies for both backend and frontend:
 
 
